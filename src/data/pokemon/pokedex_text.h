@@ -2495,10 +2495,10 @@ const u8 gRoseradePokedexText[] = _(
     "lined with poison thorns.");
 
 const u8 gSylveonPokedexText[] = _(
-    "Its ribbonlike feelers give off an aura\n"
-    "that weakens hostility in its prey, causing\n"
-    "them to let down their guard. A moment\n"
-    "later, it pounces.");
+    "Despite its cute appearance,\n"
+    "Sylveon is an incorporeal creature\n"
+    "dedicated to haunting those were mistreated\n"
+    "their Eevees.");
 
 const u8 gTangrowthPokedexText[] = _(
     "It ensnares prey by extending arms made\n"
